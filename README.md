@@ -1,2 +1,2 @@
 # sasafbr.github.io
-to do list sekolahkoding dng sedikit modifikasi
+to do list sekolahkoding
